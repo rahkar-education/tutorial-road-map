@@ -8,7 +8,7 @@
 
 - HTML is easy to learn - You will enjoy it!
 
-[![N|Solid](//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/170px-HTML5_logo_and_wordmark.svg.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/170px-HTML5_logo_and_wordmark.svg.png)](https://nodesource.com/products/nsolid)
 
 # Links
 
